@@ -72935,7 +72935,7 @@ s=A.bz(0)
 r=t.p
 f=A.bd(A.a([g,A.B(n,n,B.d,n,n,new A.aM(n,A.fG(B.fZ,new A.dv(m.a.c.a,n,n),n),n,s,n,c,B.t),n,d,n,n,n,n,n,f)],r),B.h,B.i,B.f)
 g=A.ad(a,n,k).w.a.a>=1024?60*$.w.n()/100:80*$.w.n()/100
-d=A.ad(a,n,k).w.a.a>=1024?32*$.V.n()/100:45*$.V.n()/100
+d=A.ad(a,n,k).w.a.a>=1024?32*$.V.n()/100:48*$.V.n()/100
 e=e?B.aG:B.b0
 c=A.bz(0)
 s=t.V
