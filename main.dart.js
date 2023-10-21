@@ -73196,7 +73196,7 @@ l=A.ad(a,g,m).w.a.a>=1024?40*$.v.n()/100:70*$.v.n()/100
 k=$.W.n()
 j=A.a([new A.o(f),new A.o(e),new A.o(d)],s)
 i=A.bz(0)
-l=A.B(g,g,B.d,g,g,new A.aM(g,A.fG(B.q,new A.dv("assets/imgs/grade-fall.png",g,g),g),g,i,g,new A.dA(B.aj,B.aX,B.a2,j,g,g),B.t),g,50*k/100,g,g,g,g,g,l)
+l=A.B(g,g,B.d,g,g,new A.aM(g,A.fG(B.q,new A.dv("assets/imgs/grade-fall.PNG",g,g),g),g,i,g,new A.dA(B.aj,B.aX,B.a2,j,g,g),B.t),g,50*k/100,g,g,g,g,g,l)
 k=2*$.v.n()/100
 m=A.ad(a,g,m).w.a.a>=1024?40*$.v.n()/100:70*$.v.n()/100
 j=$.W.n()
