@@ -73183,10 +73183,10 @@ A.ahl.prototype={
 $2(a,b){var s=null,r=this.b.a/18,q=A.E(s,10*$.W.n()/100,s),p=$.u.n(),o=$.W.n(),n=this.a,m=A.eq(A.N("Click to view my Certifications",B.N2,s),s,s),l=b.a?new A.o(2666896165):B.hi,k=t.h9
 p=A.B(s,A.GL(m,B.d,new A.ahk(n),A.pU(s,s,new A.bL(l,k),s,s,s,new A.bL(new A.o(4280361249),k),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s)),B.d,s,s,s,s,15*o/100,s,s,s,s,s,70*p/100)
 o=A.E(s,2*$.W.n()/100,s)
-m=A.uN(n.d?A.E(new A.jP("CompTIA Security+",B.a8,"assets/imgs/comptia-image-circular.png",u.X,s),s,30*$.u.n()/100):A.oS())
-l=A.uN(n.d?A.E(new A.jP(u.r,B.qG,"assets/imgs/pcse-image-circular.png",u.e,s),s,30*$.u.n()/100):A.oS())
+m=A.uN(n.d?A.E(new A.jP("CompTIA Security+",B.a8,"assets/imgs/comptia-image-circular.png",u.X,s),s,28*$.u.n()/100):A.oS())
+l=A.uN(n.d?A.E(new A.jP(u.r,B.qG,"assets/imgs/pcse-image-circular.png",u.e,s),s,28*$.u.n()/100):A.oS())
 k=t.p
-return A.B(s,A.Q(A.a([q,p,o,A.ba(A.a([m,l,A.uN(n.d?A.E(new A.jP("ISC2 Member",B.a8,"assets/imgs/cissp-image-circular.png",u.h,s),s,30*$.u.n()/100):A.oS())],k),B.h,B.aH,B.f),A.E(s,6*$.W.n()/100,s),B.am],k),B.h,B.i,B.f),B.d,s,s,s,s,s,s,s,new A.Z(r,0,r,0),s,s,s)},
+return A.B(s,A.Q(A.a([q,p,o,A.ba(A.a([m,l,A.uN(n.d?A.E(new A.jP("ISC2 Member",B.a8,"assets/imgs/cissp-image-circular.png",u.h,s),s,28*$.u.n()/100):A.oS())],k),B.h,B.aH,B.f),A.E(s,6*$.W.n()/100,s),B.am],k),B.h,B.i,B.f),B.d,s,s,s,s,s,s,s,new A.Z(r,0,r,0),s,s,s)},
 $S:18}
 A.ahk.prototype={
 $0(){var s=this.a
